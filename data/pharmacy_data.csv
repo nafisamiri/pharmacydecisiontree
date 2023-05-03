@@ -1,5 +1,5 @@
 CustomerID,Gender,AgeGroup,ProductCategory,Purchase,Country
-100001,Male,18-25,Personal Care,0,United Kingdom
+100001,Male,18-25,Personal Care,0, Iran
 100002,Male,26-35,Health and Hygiene,1,United States
 100003,Female,36-45,Prescription Drugs,0,Canada
 100004,Male,46-50,Over the Counter,1,United Kingdom
